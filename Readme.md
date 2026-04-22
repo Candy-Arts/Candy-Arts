@@ -1,6 +1,6 @@
 ![Candy Arts Logo](Logo.png)
 
-Welcome to Candy Arts, the creator of the powerful Candy Dialogue Engine! This readme will be updated with news about our assets. Please watch it to stay updated.
+Welcome to Candy Arts, the creator of the powerful Candy Dialogue Engine! This readme will be updated with news about our assets. Please watch the repository to stay updated.
 
 **Official links for your convenience:**
 
