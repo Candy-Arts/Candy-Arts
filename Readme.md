@@ -11,4 +11,5 @@ Welcome to Candy Arts, the creator of the powerful Candy Dialogue Engine! This r
 **News:**
 
 Big news: Candy DC 1.1 is being worked on and will release soon! It will bring many improvements.
+
 Please see our [discussion post](https://github.com/Candy-Arts/Candy-Arts/discussions/10) and share your thoughts, ideas or requests.
