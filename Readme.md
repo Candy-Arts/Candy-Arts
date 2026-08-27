@@ -4,7 +4,7 @@ Welcome to Candy Arts, the creator of the powerful Candy Dialogue Engine! This r
 
 **Official links for your convenience:**
 
-[Official website](www.candy-arts.com) | [Discord](https://discord.gg/CZ9RZxzmNf) | [Discussions](https://github.com/Candy-Arts/Candy-Arts/discussions) | [Youtube](https://www.youtube.com/@CandyArtsStudio/playlists)  | [Gumroad](https://candyarts.gumroad.com/)
+[Official website](www.candy-arts.com) | [Discord](https://discord.gg/CZ9RZxzmNf) | [Discussions](https://github.com/Candy-Arts/Candy-Arts/discussions) | [Youtube](https://www.youtube.com/@CandyArtsStudio/playlists)  | [Godot Asset Store](https://store.godotengine.org/publisher/candy-arts/) | [Gumroad](https://candyarts.gumroad.com/)
 
 -----
 
