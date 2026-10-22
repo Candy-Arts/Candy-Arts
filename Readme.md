@@ -1,4 +1,4 @@
-![Candy Arts Logo](Logo.png)
+![Candy Arts Logo](Logo.svg)
 
 Welcome to Candy Arts, the creator of the powerful Candy Dialogue Engine! This readme will be updated with news about our assets. Please watch the repository to stay updated.
 
