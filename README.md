@@ -8,11 +8,11 @@ Welcome to Candy Arts, the creator of the powerful Candy Dialogue Engine! This r
 
 -----
 
-Lots of new things:
-• Candy Dialogue Engine + Candy Dialogue Creator 1.2 have released. → [Discussion](https://github.com/Candy-Arts/Candy-Arts/discussions/18)
-• Candy Database has been released. → [Repo](https://github.com/Candy-Arts/Candy-Database)
-• Candy Tools has been updated. → [Repo](https://github.com/Candy-Arts/Candy-Tools)
-• We're changing our licensing model to be simpler and cheaper. → [Official Site](https://candy-arts.com/index.php/licensing/)
+Lots of new things:<br>
+• Candy Dialogue Engine + Candy Dialogue Creator 1.2 have released. → [Discussion](https://github.com/Candy-Arts/Candy-Arts/discussions/18)<br>
+• Candy Database has been released. → [Repo](https://github.com/Candy-Arts/Candy-Database)<br>
+• Candy Tools has been updated. → [Repo](https://github.com/Candy-Arts/Candy-Tools)<br>
+• We're changing our licensing model to be simpler and cheaper. → [Official Site](https://candy-arts.com/index.php/licensing/)<br>
 
 
 
